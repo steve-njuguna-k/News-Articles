@@ -1,0 +1,18 @@
+body{
+  background-color: #f9f9f9;
+  font-family: Poppins, Helvetica, sans-serif;
+}
+
+.title{
+  margin-bottom: 40px;
+}
+
+a{
+  text-decoration: none;
+  color: blue;
+}
+
+a:hover{
+  text-decoration: none;
+  color: blue;
+}
